@@ -1,3 +1,3 @@
 # Neural_Network_ANN
 
-<h3> Building a simple Artificial Neural Network for Image classification using <b> MNIST dataset </b></h3>
+Building a simple Artificial Neural Network (ANN) for Image classification of <b> Handwritten digits </b> using <b> 'MNIST' dataset </b>
